@@ -49,8 +49,8 @@ After the command finishes, the report file will be created in the same folder a
 
 ### Example Output
 
-\<details\>
-\<summary\>\<strong\>Click to see largest\_files.txt example\</strong\>\</summary\>
+<details>
+<summary><strong>Click to see largest\_files.txt example</strong></summary>
 
 ```text
 Largest 50 files on C::
